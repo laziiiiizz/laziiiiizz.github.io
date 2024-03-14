@@ -1,14 +1,49 @@
 #Abdulaziz Abduvaliev
-<details> 
-<summary> Daily webs to use at work <summary>
-<details>
 <summary>Amazon workspace websites</summary>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
 
-| Department | Websites |
-|-----:|-------------------------------------------------------|
-|   Ambo access|link text||  (https://iad.umbrella.amazon.dev/ata/initiate)|
-|   CPT |libk text | | https://midway-auth.amazon.com/SSO/redirect?redirect_uri=https%3A%2F%2Frodeo-iad.amazon.com%2FROC1%2FExSD%3Bjsessionid%3DB081EAD603CAF777D6ABC3B8D2182D9D%3FyAxis%3DPROCESS_PATH%26zAxis%3DWORK_POOL%26shipmentTypes%3DCUSTOMER_SHIPMENTS%26exSDRange.quickRange%3DDAILY%26exSDRange.dailyStart%3D07%253A30%26exSDRange.dailyEnd%3D21%253A00%26giftOption%3DALL%26fulfillmentServiceClass%3DALL%26fracs%3DALL%26isEulerExSDMiss%3DALL%26isEulerPromiseMiss%3DALL%26isEulerUpgraded%3DALL%26isReactiveTransfer%3DALL%26_workPool%3Don%26workPool%3DReadyToPick%26workPool%3DReadyToPickHardCapped%26workPool%3DReadyToPickUnconstrained%26workPool%3DPickingNotYetPicked%26workPool%3DPickingNotYetPickedPrioritized%26workPool%3DPickingNotYetPickedNotPrioritized%26workPool%3DPickingNotYetPickedHardCapped%26workPool%3DCrossdockNotYetPicked%26_workPool%3Don%26workPool%3DPickingPicked%26workPool%3DPickingPickedInProgress%26workPool%3DPickingPickedInTransit%26workPool%3DPickingPickedRouting%26workPool%3DPickingPickedAtDestination%26workPool%3DInducted%26workPool%3DRebinBuffered%26workPool%3DSorted%26workPool%3DGiftWrap%26workPool%3DPacking%26workPool%3DScanned%26workPool%3DProblemSolving%26workPool%3DProcessPartial%26workPool%3DSoftwareException%26workPool%3DCrossdock%26workPool%3DPreSort%26workPool%3DTransshipSorted%26workPool%3DPalletized%26_workPool%3Don%26_workPool%3Don%26processPath%3DPPSingle%26processPath%3DPPHighQuantityShipment%26processPath%3DPPSingleBoxDrop1%26processPath%3DPPSingleSmall%26processPath%3DPPMultiLarge%26processPath%3DPPMultiSmall%26processPath%3DPPMultiWraps%26processPath%3DPPSingleWrap%26processPath%3DPPPalletSingle%26processPath%3DPPPalletLarge%26processPath%3DPPPalletSingleBoxDrop1%26processPath%3DPPPalletSingleSmall%26processPath%3DPPPalletSingleWraps%26processPath%3DPPPalletSmall%26processPath%3DPPSmartPac%26processPath%3DPPSingleLarge%26processPath%3DPPSingleMedium%26processPath%3DPPMix%26processPath%3DPPSmartPacLarge%26processPath%3DPPSingleSmallPoly%26processPath%3DPPSingleCW1000%26processPath%3D%26minPickPriority%3DMIN_PRIORITY%26shipMethod%3D%26shipOption%3D%26sortCode%3D%26fnSku%3D&client_id=https%3A%2F%2Frodeo-iad.amazon.com%3A443&scope=openid&response_type=id_token&nonce=ec30b559dc0a6dbbf733384b4ef95569bee0fbcc3ad66cf51826b431464492fc&sentry_handler_version=midwaygateway&response_mode=query&acr_values=kerberos&use_sentry_key=1&state=%2FROC1%2FExSD%3Bjsessionid%3DB081EAD603CAF777D6ABC3B8D2182D9D%3FyAxis%3DPROCESS_PATH%26zAxis%3DWORK_POOL%26shipmentTypes%3DCUSTOMER_SHIPMENTS%26exSDRange.quickRange%3DDAILY%26exSDRange.dailyStart%3D07%253A30%26exSDRange.dailyEnd%3D21%253A00%26giftOption%3DALL%26fulfillmentServiceClass%3DALL%26fracs%3DALL%26isEulerExSDMiss%3DALL%26isEulerPromiseMiss%3DALL%26isEulerUpgraded%3DALL%26isReactiveTransfer%3DALL%26_workPool%3Don%26workPool%3DReadyToPick%26workPool%3DReadyToPickHardCapped%26workPool%3DReadyToPickUnconstrained%26workPool%3DPickingNotYetPicked%26workPool%3DPickingNotYetPickedPrioritized%26workPool%3DPickingNotYetPickedNotPrioritized%26workPool%3DPickingNotYetPickedHardCapped%26workPool%3DCrossdockNotYetPicked%26_workPool%3Don%26workPool%3DPickingPicked%26workPool%3DPickingPickedInProgress%26workPool%3DPickingPickedInTransit%26workPool%3DPickingPickedRouting%26workPool%3DPickingPickedAtDestination%26workPool%3DInducted%26workPool%3DRebinBuffered%26workPool%3DSorted%26workPool%3DGiftWrap%26workPool%3DPacking%26workPool%3DScanned%26workPool%3DProblemSolving%26workPool%3DProcessPartial%26workPool%3DSoftwareException%26workPool%3DCrossdock%26workPool%3DPreSort%26workPool%3DTransshipSorted%26workPool%3DPalletized%26_workPool%3Don%26_workPool%3Don%26processPath%3DPPSingle%26processPath%3DPPHighQuantityShipment%26processPath%3DPPSingleBoxDrop1%26processPath%3DPPSingleSmall%26processPath%3DPPMultiLarge%26processPath%3DPPMultiSmall%26processPath%3DPPMultiWraps%26processPath%3DPPSingleWrap%26processPath%3DPPPalletSingle%26processPath%3DPPPalletLarge%26processPath%3DPPPalletSingleBoxDrop1%26processPath%3DPPPalletSingleSmall%26processPath%3DPPPalletSingleWraps%26processPath%3DPPPalletSmall%26processPath%3DPPSmartPac%26processPath%3DPPSingleLarge%26processPath%3DPPSingleMedium%26processPath%3DPPMix%26processPath%3DPPSmartPacLarge%26processPath%3DPPSingleSmallPoly%26processPath%3DPPSingleCW1000%26processPath%3D%26minPickPriority%3DMIN_PRIORITY%26shipMethod%3D%26shipOption%3D%26sortCode%3D%26fnSku%3D |
-|  GCA | |link text| |https://midway-auth.amazon.com/SSO/redirect?redirect_uri=https%3A%2F%2Fguided-coaching.corp.amazon.com%2F&client_id=guided-coaching.corp.amazon.com%3A443&scope=openid&response_type=id_token&nonce=215f9cf8dc8be30d9eac348b110d1a4d4ea257ecdfa39cfa13c31688d0c03f70&sentry_handler_version=midwaygateway&response_mode=query&acr_values=kerberos&use_sentry_key=1&state=%2F#/opportunities |
+        table, th, td {
+            border: 1px solid black;
+        }
 
-</details>
-<details open> 
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {background-color: #ddd;}
+    </style>
+</head>
+<body>
+
+<h2>Links Chart</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>ATA Umbrella</td>
+    <td><a href="[http://example1.com](https://iad.umbrella.amazon.dev/ata/initiate)">[http://example1.com](https://iad.umbrella.amazon.dev/ata/initiate)</a></td>
+  </tr>
+  <tr>
+    <td>Example Name 2</td>
+    <td><a href="http://example2.com">http://example2.com</a></td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
+
+</body>
+</html>
