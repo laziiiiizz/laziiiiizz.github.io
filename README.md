@@ -31,8 +31,8 @@
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Link</th>
+    <th>Daily links you need</th>
+    <th>Links</th>
   </tr>
   <tr>
     <td>ATA Umbrella</td>
