@@ -1,59 +1,84 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
- <p>Hello Amazonians</p>   
-</body>  
-</html>
-<summary>Amazon workspace websites</summary>
-<!DOCTYPE html>
-<html>
-<head>
+    <title>Abdulaziz Abduvaliev</title>
     <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
         }
-
-        table, th, td {
-            border: 1px solid black;
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+            text-align: center;
         }
-
-        th, td {
-            padding: 8px;
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+            text-align: center;
+        }
+        .greeting {
+            margin: 20px;
             text-align: left;
         }
-
-        th {
-            background-color: #f2f2f2;
+        .profile-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 20px auto;
         }
-
-        tr:hover {background-color: #ddd;}
+        .social-icons a {
+            margin: 0 10px;
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background-color: #333;
+            border-radius: 50%;
+            color: white;
+            line-height: 40px;
+            vertical-align: middle;
+        }
+        .social-icons img {
+            vertical-align: middle;
+        }
     </style>
 </head>
 <body>
 
-<h2>Links Chart</h2>
+<div class="navbar">
+    <a href="#home">Home</a>
+    <a href="#about">About me</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+</div>
 
-<table>
-  <tr>
-    <th>Daily links you need</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td>ATA Umbrella</td>
-    <td><a href="[http://example1.com](https://iad.umbrella.amazon.dev/ata/initiate)">(https://iad.umbrella.amazon.dev/ata/initiate)</a></td>
-  </tr>
-  <tr>
-    <td>Singles CPT</td>
-    <td><a href=https://rodeo-iad.amazon.com/ROC1/ExSD;jsessionid=B081EAD603CAF777D6ABC3B8D2182D9D?yAxis=PROCESS_PATH&zAxis=WORK_POOL&shipmentTypes=CUSTOMER_SHIPMENTS&exSDRange.quickRange=DAILY&exSDRange.dailyStart=07%3A30&exSDRange.dailyEnd=21%3A00&giftOption=ALL&fulfillmentServiceClass=ALL&fracs=ALL&isEulerExSDMiss=ALL&isEulerPromiseMiss=ALL&isEulerUpgraded=ALL&isReactiveTransfer=ALL&_workPool=on&workPool=ReadyToPick&workPool=ReadyToPickHardCapped&workPool=ReadyToPickUnconstrained&workPool=PickingNotYetPicked&workPool=PickingNotYetPickedPrioritized&workPool=PickingNotYetPickedNotPrioritized&workPool=PickingNotYetPickedHardCapped&workPool=CrossdockNotYetPicked&_workPool=on&workPool=PickingPicked&workPool=PickingPickedInProgress&workPool=PickingPickedInTransit&workPool=PickingPickedRouting&workPool=PickingPickedAtDestination&workPool=Inducted&workPool=RebinBuffered&workPool=Sorted&workPool=GiftWrap&workPool=Packing&workPool=Scanned&workPool=ProblemSolving&workPool=ProcessPartial&workPool=SoftwareException&workPool=Crossdock&workPool=PreSort&workPool=TransshipSorted&workPool=Palletized&_workPool=on&_workPool=on&processPath=PPSingle&processPath=PPHighQuantityShipment&processPath=PPSingleBoxDrop1&processPath=PPSingleSmall&processPath=PPMultiLarge&processPath=PPMultiSmall&processPath=PPMultiWraps&processPath=PPSingleWrap&processPath=PPPalletSingle&processPath=PPPalletLarge&processPath=PPPalletSingleBoxDrop1&processPath=PPPalletSingleSmall&processPath=PPPalletSingleWraps&processPath=PPPalletSmall&processPath=PPSmartPac&processPath=PPSingleLarge&processPath=PPSingleMedium&processPath=PPMix&processPath=PPSmartPacLarge&processPath=PPSingleSmallPoly&processPath=PPSingleCW1000&processPath=&minPickPriority=MIN_PRIORITY&shipMethod=&shipOption=&sortCode=&fnSku=</a></td>
-  </tr>
-  <!-- Add more rows as needed -->
-</table>
+<div class="container">
+    <div class="greeting">
+        <h1>Greetings!</h1>
+        <p>Thank you for visiting my digital space. Here you will find a collection of my professional journey, projects, and accomplishments. Whether you're exploring opportunities, sharing ideas, or simply want to connect, I welcome the chance to engage in meaningful conversations.</p>
+    </div>
+    <img src="profile-image-url.jpg" alt="Profile Image" class="profile-image">
+    <div class="social-icons">
+        <!-- Replace # with your actual social media links and img/src with your social media icons' URLs -->
+        <a href="#" target="_blank"><img src="linkedin-icon-url.png" alt="LinkedIn"></a>
+        <a href="#" target="_blank"><img src="github-icon-url.png" alt="GitHub"></a>
+        <a href="#" target="_blank"><img src="email-icon-url.png" alt="Email"></a>
+    </div>
+</div>
 
 </body>
 </html>
