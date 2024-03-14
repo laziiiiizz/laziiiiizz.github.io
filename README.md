@@ -2,7 +2,7 @@
 <details> 
 <summary> Daily webs to use at work <summary>
 <details>
-<summary>My top languages</summary>
+<summary>Amazon workspace websites</summary>
 
 | Department | Websites |
 |-----:|-----------|
